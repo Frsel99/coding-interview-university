@@ -167,66 +167,6 @@ For a complete CS self-taught program, the resources for my study plan have been
 
 ---
 
-## Why use it?
-
-If you want to work as a software engineer for a large company, these are the things you have to know.
-
-If you missed out on getting a degree in computer science, like I did, this will catch you up and save four years of your life.
-
-When I started this project, I didn't know a stack from a heap, didn't know Big-O anything, or anything about trees, or how to
-traverse a graph. If I had to code a sorting algorithm, I can tell ya it would have been terrible.
-Every data structure I had ever used was built into the language, and I didn't know how they worked
-under the hood at all. I never had to manage memory unless a process I was running would give an "out of
-memory" error, and then I'd have to find a workaround. I used a few multidimensional arrays in my life and
-thousands of associative arrays, but I never created data structures from scratch.
-
-It's a long plan. It may take you months. If you are familiar with a lot of this already it will take you a lot less time.
-
----
-
-## How to use it
-
-Everything below is an outline, and you should tackle the items in order from top to bottom.
-
-I'm using GitHub's special markdown flavor, including tasks lists to track progress.
-  - [More about GitHub-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
-
-### If you don't want to use git
-
-On this page, click the Code button near the top, then click "Download ZIP". Unzip the file and you can work with the text files.
-
-If you're open in a code editor that understands markdown, you'll see everything formatted nicely.
-
-![How to download the repo as a zip file](https://d3j2pkmjtin6ou.cloudfront.net/how-to-download-as-zip.png)
-
-### If you're comfortable with git
-
-Create a new branch so you can check items like this, just put an x in the brackets: [x]
-
-1. ***Fork the GitHub repo:*** `https://github.com/jwasham/coding-interview-university` by clicking on the Fork button.
-
-    ![Fork the GitHub repo](https://d3j2pkmjtin6ou.cloudfront.net/fork-button.png)
-
-1. Clone to your local repo:
-
-    ```bash
-    git clone https://github.com/<YOUR_GITHUB_USERNAME>/coding-interview-university.git
-    cd coding-interview-university
-    git remote add upstream https://github.com/jwasham/coding-interview-university.git
-    git remote set-url --push upstream DISABLE  # so that you don't push your personal progress back to the original repo
-    ```
-
-1. Mark all boxes with X after you completed your changes:
-
-    ```bash
-    git commit -am "Marked personal progress"
-    git pull upstream main  # keep your fork up-to-date with changes from the original repo
-
-    git push # just pushes to your fork
-    ```
-
----
-
 ## Don't feel you aren't smart enough
 
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
@@ -262,7 +202,7 @@ When I did the study plan, I used 2 languages for most of it: C and Python
     and algorithms in your bones. In higher-level languages like Python or Java, these are hidden from you. In day-to-day work, that's terrific,
     but when you're learning how these low-level data structures are built, it's great to feel close to the metal.
     - C is everywhere. You'll see examples in books, lectures, videos, *everywhere* while you're studying.
-    - [The C Programming Language, 2nd Edition](file:///C:/Users/Frsel/Documents/El%20Lenguaje%20De%20Programacion%20C%20-%20Kernighan%20Y%20Ritchie.pdf)
+    - [The C Programming Language, 2nd Edition]("file:///C:/Users/Frsel/Documents/El%20Lenguaje%20De%20Programacion%20C%20-%20Kernighan%20Y%20Ritchie.pdf")
         - This is a short book, but it will give you a great handle on the C language and if you practice it a little
             you'll quickly get proficient. Understanding C helps you understand how programs and memory work.
         - You don't need to go super deep in the book (or even finish it). Just get to where you're comfortable reading and writing in C.
@@ -273,9 +213,6 @@ This is my preference. You do what you like, of course.
 You may not need it, but here are some sites for learning a new language:
 - [Exercism](https://exercism.org/tracks)
 - [Codewars](http://www.codewars.com)
-- [HackerEarth](https://www.hackerearth.com/for-developers/)
-- [Scaler Topics (Java, C++)](https://www.scaler.com/topics/)
-- [Programiz PRO Community Challenges)](https://programiz.pro/)
 
 ### For your Coding Interview
 
@@ -290,14 +227,7 @@ You could also use these, but read around first. There may be caveats:
 - JavaScript
 - Ruby
 
-Here is an article I wrote about choosing a language for the interview:
-[Pick One Language for the Coding Interview](https://startupnextdoor.com/important-pick-one-language-for-the-coding-interview/).
-This is the original article my post was based on: [Choosing a Programming Language for Interviews](https://web.archive.org/web/20210516054124/http://blog.codingforinterviews.com/best-programming-language-jobs/)
-
 You need to be very comfortable in the language and be knowledgeable.
-
-Read more about choices:
-- [Choose the Right Language for Your Coding Interview](http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/)
 
 [See language-specific resources here](programming-language-resources.md)
 
