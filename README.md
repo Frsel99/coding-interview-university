@@ -182,7 +182,7 @@ thousands of associative arrays, but I never created data structures from scratc
 
 It's a long plan. It may take you months. If you are familiar with a lot of this already it will take you a lot less time.
 
-**[⬆ back to top](#table-of-contents)**
+---
 
 ## How to use it
 
@@ -225,7 +225,7 @@ Create a new branch so you can check items like this, just put an x in the brack
     git push # just pushes to your fork
     ```
 
-**[⬆ back to top](#table-of-contents)**
+---
 
 ## Don't feel you aren't smart enough
 
@@ -234,7 +234,7 @@ Create a new branch so you can check items like this, just put an x in the brack
     - [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
     - [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
-**[⬆ back to top](#table-of-contents)**
+---
 
 ## A Note About Video Resources
 
@@ -245,7 +245,7 @@ It would be great to replace the online course resources with free and always-av
 such as YouTube videos (preferably university lectures), so that you people can study these anytime,
 not just when a specific online course is in session.
 
-**[⬆ back to top](#table-of-contents)**
+---
 
 ## Choose a Programming Language
 
@@ -301,7 +301,7 @@ Read more about choices:
 
 [See language-specific resources here](programming-language-resources.md)
 
-**[⬆ back to top](#table-of-contents)**
+---
 
 ## Books for Data Structures and Algorithms
 
@@ -344,7 +344,7 @@ Your choice:
     - [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/)
     - [Algorithms in C++ Part 5: Graph Algorithms](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/)
 
-**[⬆ back to top](#table-of-contents)**
+---
 
 ## Interview Prep Books
 
@@ -369,7 +369,7 @@ Choose one:
 - [Elements of Programming Interviews (Java version)](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517435803/)
         - [Companion Project - Method Stub and Test Cases for Every Problem in the Book](https://github.com/gardncl/elements-of-programming-interviews)
 
-**[⬆ back to top](#table-of-contents)**
+---
 
 ## Don't Make My Mistakes
 
@@ -442,7 +442,7 @@ There are many resources for this, listed below. Keep going.
 There are a lot of distractions that can take up valuable time. Focus and concentration are hard. Turn on some music
 without lyrics and you'll be able to focus pretty well.
 
-**[⬆ back to top](#table-of-contents)**
+---
 
 ## What you won't see covered
 
@@ -452,7 +452,7 @@ These are prevalent technologies but not part of this study plan:
 - HTML, CSS, and other front-end technologies
 - SQL
 
-**[⬆ back to top](#table-of-contents)**
+---
 
 ## The Daily Plan
 
@@ -468,7 +468,7 @@ You can see my code here:
 
 You don't need to memorize every algorithm. You just need to be able to understand it enough to be able to write your own implementation.
 
-**[⬆ back to top](#table-of-contents)**
+---
 
 ## Coding Question Practice
 
@@ -498,7 +498,7 @@ Gets messy quickly. **I use a pencil and eraser.**
 
 **Coding question practice is not about memorizing answers to programming problems.**
 
-**[⬆ back to top](#table-of-contents)**
+---
 
 ## Coding Problems
 
@@ -531,7 +531,7 @@ Challenge/Practice sites:
 - [Project Euler](https://projecteuler.net/)
     - very math-focused, and not really suited for coding interviews
 
-**[⬆ back to top](#table-of-contents)**
+---
 
 ## Let's Get Started
 
@@ -562,7 +562,7 @@ Well, that's about enough of that.
 When you go through "Cracking the Coding Interview", there is a chapter on this, and at the end there is a quiz to see
 if you can identify the runtime complexity of different algorithms. It's a super review and test.
 
-**[⬆ back to top](#table-of-contents)**
+---
 
 ## Data Structures
 
@@ -686,7 +686,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - get(key)
         - remove(key)
 
-**[⬆ back to top](#table-of-contents)**
+---
 
 ## More Knowledge
 
@@ -728,7 +728,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
     - [ ] Absolute value:
         - [Absolute Integer](https://bits.stephan-brumme.com/absInteger.html)
 
-**[⬆ back to top](#table-of-contents)**
+---
 
 ## Trees
 
@@ -808,7 +808,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - [ ] heapify - create a heap from an array of elements, needed for heap_sort
         - [ ] heap_sort() - take an unsorted array and turn it into a sorted array in place using a max heap or min heap
 
-**[⬆ back to top](#table-of-contents)**
+---
 
 ## Sorting
 
@@ -894,7 +894,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
 As a summary, here is a visual representation of [15 sorting algorithms](https://www.youtube.com/watch?v=kPRA0W1kECg).
 If you need more detail on this subject, see the "Sorting" section in [Additional Detail on Some Subjects](#additional-detail-on-some-subjects)
 
-**[⬆ back to top](#table-of-contents)**
+---
 
 ## Graphs
 
@@ -957,7 +957,7 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [ ] list strongly connected components
         - [ ] check for bipartite graph
 
-**[⬆ back to top](#table-of-contents)**
+---
 
 ## Even More Knowledge
 
@@ -1190,7 +1190,7 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 ---
 
-**[⬆ back to top](#table-of-contents)**
+---
 
 ## Final Review
 
@@ -1207,7 +1207,7 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 ---
 
-**[⬆ back to top](#table-of-contents)**
+---
 
 ## Update Your Resume
 
@@ -1217,7 +1217,7 @@ Graphs can be used to represent many problems in computer science, so this secti
 - ["Step-by-step resume guide" by Tech Interview Handbook](https://www.techinterviewhandbook.org/resume/guide)
     - Detailed guide on how to set up your resume from scratch, write effective resume content, optimize it, and test your resume
 
-**[⬆ back to top](#table-of-contents)**
+---
 
 ## Interview Process & General Interview Prep
 
@@ -1252,7 +1252,7 @@ Mock Interviews:
 - [Hello Interview: Mock Interviews with Expert Coaches and AI](https://www.hellointerview.com/?utm_source=ciu) - interview directly with AI or with FAANG staff engineers and managers.
 - [Codemia: Practice system design problems with AI or community solutions and feedback](https://codemia.io/?utm_source=ciu) - Practice system design problems via AI practice tool. Share your solution with the community to get human feedback as well.
 
-**[⬆ back to top](#table-of-contents)**
+---
 
 ## Be thinking of for when the interview comes
 
@@ -1272,7 +1272,7 @@ Have a story, not just data, about something you accomplished.
 - What did you learn at [job x / project y]?
 - What would you have done better at [job x / project y]?
 
-**[⬆ back to top](#table-of-contents)**
+---
 
 ## Have questions for the interviewer
 
@@ -1289,7 +1289,7 @@ Some of mine (I already may know the answers, but want their opinion or team per
 - What is the work life like?
 - How is the work/life balance?
 
-**[⬆ back to top](#table-of-contents)**
+---
 
 ## Once You've Got The Job
 
@@ -1313,7 +1313,7 @@ You're never really done.
 
 ---
 
-**[⬆ back to top](#table-of-contents)**
+---
 
 ## Additional Books
 
@@ -1369,7 +1369,7 @@ You're never really done.
 - [Computer Architecture, Sixth Edition: A Quantitative Approach](https://www.amazon.com/dp/0128119055)
     - For a richer, more up-to-date (2017), but longer treatment
 
-**[⬆ back to top](#table-of-contents)**
+---
 
 ## System Design, Scalability, Data Handling
 
@@ -1483,7 +1483,7 @@ You're never really done.
         - [Design a URL-shortener system: copied from above](http://www.hiredintech.com/system-design/the-system-design-process/)
         - [Design a cache system](https://web.archive.org/web/20220217064329/https://adayinthelifeof.nl/2011/02/06/memcache-internals/)
 
-**[⬆ back to top](#table-of-contents)**
+---
 
 ## Additional Learning
 
@@ -1793,7 +1793,7 @@ You're never really done.
 
 ---
 
-**[⬆ back to top](#table-of-contents)**
+---
 
 ## Additional Detail on Some Subjects
 
@@ -1881,7 +1881,7 @@ You're never really done.
 
 - NAND To Tetris: [Build a Modern Computer from First Principles](https://www.coursera.org/learn/build-a-computer)
 
-**[⬆ back to top](#table-of-contents)**
+---
 
 ## Video Series
 
@@ -1938,20 +1938,20 @@ Sit back and enjoy.
 
 - [Graph Theory by Sarada Herke (67 videos)](https://www.youtube.com/user/DrSaradaHerke/playlists?shelf_id=5&view=50&sort=dd)
 
-**[⬆ back to top](#table-of-contents)**
+---
 
 ## Computer Science Courses
 
 - [Directory of Online CS Courses](https://github.com/open-source-society/computer-science)
 - [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses)
 
-**[⬆ back to top](#table-of-contents)**
+---
 
 ## Algorithms implementation
 
 - [Multiple Algorithms implementation by Princeton University](https://algs4.cs.princeton.edu/code)
 
-**[⬆ back to top](#table-of-contents)**
+---
 
 ## Papers
 
@@ -1978,7 +1978,7 @@ Sit back and enjoy.
 - [2015: How Developers Search for Code: A Case Study](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43835.pdf)
 - More papers: [1,000 papers](https://github.com/0voice/computer_expert_paper)
 
-**[⬆ back to top](#table-of-contents)**
+---
 
 ## LICENSE
 
